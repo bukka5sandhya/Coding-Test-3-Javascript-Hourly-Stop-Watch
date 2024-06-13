@@ -1,0 +1,18 @@
+.timer{
+    font-size:36px;
+}
+.start-button{
+    color:#ffffff;
+    border-radius: 5px;
+    border:none;
+    padding:5px 15px;
+    background-color: green;
+}
+.stop-button{ 
+    color:#ffffff;
+    border-radius: 5px;
+    border:none;
+    padding:5px 15px;
+    background-color: red;
+
+}
